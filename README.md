@@ -42,6 +42,17 @@ GROUP BY c.customer_id
 
 ![alt text](https://github.com/rus42/INDEXES/blob/main/Task_2.4.png)
 
+## Задание 3
+### Самостоятельно изучите, какие типы индексов используются в PostgreSQL. Перечислите те индексы, которые используются в PostgreSQL, а в MySQL — нет.
+
+Типы индексов PostgreSQL:
+1. B-Tree index 	
+2. Поддерживаемые пространственные индексы(Spatial indexes) 	
+3. Hash index
+4. Bitmap index (отсутсвтует в MYSQL)
+5. Inverted index
+6. Partial index (отсутсвтует в MYSQL)
+7. Function based index (отсутсвтует в MYSQL)
 
 
 
